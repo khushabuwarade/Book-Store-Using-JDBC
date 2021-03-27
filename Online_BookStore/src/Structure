@@ -1,0 +1,29 @@
+17 dec
+
+Table: order
+Columns:
+orderid int(11) AI PK 
+username varchar(45) 
+orderdate date 
+totalbill double
+
+jo double quotes mai denge vo sql k parameter honge
+
+
+Table: admin
+Columns:
+adminid int(11) AI PK 
+adminnm varchar(45) 
+password varchar(45)
+
+
+admin
+change paassword
+add book
+update
+delete
+getaallbook
+getaallcust
+getallorder
+
+
